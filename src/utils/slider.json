@@ -1,0 +1,32 @@
+[
+  {
+    "name": "roadF",
+    "detail": "service1",
+    "image": "./service-icon-1.png"
+  },
+  {
+    "name": "oceanF",
+    "detail": "service2",
+    "image": "./service-icon-2.png"
+  },
+  {
+    "name": "airF",
+    "detail": "service3",
+    "image": "./service-icon-3.png"
+  },
+  {
+    "name": "railF",
+    "detail": "service4",
+    "image": "./service-icon-4.png"
+  },
+  {
+    "name": "warehousing",
+    "detail": "service5",
+    "image": "./service-icon-5.png"
+  },
+  {
+    "name": "prCargo",
+    "detail": "service6",
+    "image": "./service-icon-6.png"
+  }
+]
