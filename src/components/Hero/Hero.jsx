@@ -70,5 +70,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
-// 78-38-08
